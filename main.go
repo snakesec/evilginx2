@@ -14,7 +14,6 @@ import (
 	"github.com/kgretzky/evilginx2/log"
 	"go.uber.org/zap"
 
-	"github.com/fatih/color"
 )
 
 var phishlets_dir = flag.String("p", "", "Phishlets directory path")
